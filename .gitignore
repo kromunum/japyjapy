@@ -1,0 +1,8 @@
+# Local editor / tooling config
+.claude/
+.vscode/
+.idea/
+
+# OS cruft
+.DS_Store
+Thumbs.db
